@@ -1,4 +1,3 @@
-````markdown
 # Weather & Vacation Planner (WeatherPy + VacationPy)
 
 ## Summary
@@ -106,10 +105,4 @@ jupyter notebook VacationPy.ipynb
 ├── VacationPy.ipynb
 ├── final_weather_data.csv
 └── README.md
-```
-
-*Questions or want a PR with `requirements.txt` and a Folium map export? I’m happy to add them.*
-
-```
-::contentReference[oaicite:0]{index=0}
 ```
